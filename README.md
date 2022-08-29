@@ -1,4 +1,3 @@
-# Go-string-rune-and-byte
 # Golang-string-rune-and-byte
 [Golang: String, rune and byte](https://yuminlee2.medium.com/go-string-rune-and-byte-efd2aa6034f6)
 
